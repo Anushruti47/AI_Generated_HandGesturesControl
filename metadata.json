@@ -1,0 +1,7 @@
+{
+  "name": "NEURO_GLITCH // Particle Core",
+  "description": "A retro-futurist 3D particle system controlled by hand gestures and AI-generated anomalies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
